@@ -1,0 +1,68 @@
+window {
+    background: #1e1e2f;
+    color: #eeeeee;
+    font-family: "Segoe UI", "Sans Serif";
+    font-size: 14px;
+}
+
+entry {
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid #3e3e5c;
+    background: #2d2d44;
+    color: #ffffff;
+}
+
+button {
+    background: #2d2d44;
+    color: #eeeeee;
+    border-radius: 8px;
+    padding: 6px 14px;
+    border: 1px solid #3e3e5c;
+    transition: background 150ms ease;
+}
+
+button:hover {
+    background: #3b3b5c;
+}
+
+button:active {
+    background: #57577a;
+}
+
+#connect-btn {
+    background: #007acc;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#connect-btn:hover {
+    background: #0090ff;
+}
+
+textview {
+    background: #12121c;
+    color: #00ffae;
+    border-radius: 6px;
+    padding: 6px;
+}
+
+
+#connect_btn {
+    background: #007BFF;   /* Bootstrap blue */
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+#disconnect_btn {
+    background: #DC3545;   /* Bootstrap red */
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+button {
+    padding: 6px 12px;
+    font-size: 14px;
+}
